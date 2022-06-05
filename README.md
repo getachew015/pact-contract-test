@@ -5,3 +5,7 @@ Contract testing is a method to verify integration between two applications inde
 
 
 Contract tests fit nicely within a microservice architecture, operating in an agile setting. Therefore examples will be based on the experience that we have gained while working in this environment.
+
+## Below Link has a good source of documentation in explaining how it works
+https://www.softwaretestinghelp.com/contract-testing/
+
